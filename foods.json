@@ -1,0 +1,17 @@
+[
+    {
+        "food_id": 1,
+        "name": "Chicken Biriyani",
+        "price" : 350
+    },
+    {
+        "food_id":2,
+        "name": "Pizza",
+        "price" : 250
+    },
+    {
+        "food_id": 3,
+        "name" : "Pasta",
+        "price": 300
+    }
+]
