@@ -10,14 +10,16 @@ I created this project to improve my understanding of Python programming, file h
 
 ## Features
 
-* User Registration
-* User Login
-* View Available Food Items
-* Add Food Items to Cart
-* View Cart
-* Place Orders
-* View Order History
-* JSON-based Data Storage
+## Features
+
+- User Registration
+- User Login
+- View Available Food Items
+- Add Food to Cart
+- View Cart
+- Remove Food from Cart
+- Place Order
+- Logout
 
 ---
 
@@ -51,10 +53,10 @@ FoodApp/
 2. The user logs into the application.
 3. Available food items are displayed from the food database.
 4. The user can add food items to the cart.
-5. The cart displays selected items and the total amount.
-6. The user places an order.
-7. Order details are saved in the order database.
-8. Users can view their previous orders.
+5. The user can remove food items from the cart.
+6. The cart displays selected items and the total amount.
+7. The user places an order.
+8. Order details are saved in the order database.
 
 ---
 
@@ -103,7 +105,7 @@ While building this project, I learned:
 Some features that can be added in future versions:
 
 * Admin Login
-* Add/Edit/Delete Food Items
+* Online payment option
 * Search Food Functionality
 * Remove Items from Cart
 * Graphical User Interface (Tkinter)
@@ -116,3 +118,6 @@ Some features that can be added in future versions:
 Aregela Naga Chandrika
 
 This project was developed as a learning project to practice Python programming and software development concepts.
+
+
+If you like this project, don't forget to give it a ⭐ 
