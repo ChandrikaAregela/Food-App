@@ -2,5 +2,11 @@
     {
         "username": "chandrika",
         "password": "chand@123"
+    },
+    {
+        "username": "Siri",
+        "password": "pbkdf2_sha256$e48f8572c7c24ab3b62205a54d9353e6$bd0c0f5067d59ce126632870d35e54f7fc7722cc02a384851ae6037a33f4913d",
+        "phone": "",
+        "addresses": []
     }
 ]
